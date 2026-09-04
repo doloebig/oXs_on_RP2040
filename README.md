@@ -2,7 +2,7 @@
 ## For rc protocols : expressLRS / FRSKY (sport + Fbus) / HOTT / JETI Ex / JETI EXBUS/ MPX / FLYSKY / Futaba (SBUS2) / Spektrum (SRXL2) 
 
 This project can be interfaced with 1 or 2 ELRS, FRSKY , HOTT , MPX, FLYSKY , Futaba, Spektrum or Jeti receiver(s) (protocol has to be selected accordingly).
- 
+### this fork include a new GPS Init up 115200bps and support GPS time on CRFS 
 ### This project is foreseen to generate:
 - telemetry data (e.g. when a flight controller is not used)
 - PWM servo signals (based on Rc channel)
